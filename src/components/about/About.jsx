@@ -2,7 +2,7 @@ import React from "react";
 import "./about.css";
 import aboutimg from "../../assets/aboutimg.jpg";
 import { FaAward } from "react-icons/fa";
-import { CiUser } from "react-icons/ci";
+//import { CiUser } from "react-icons/ci";
 import { BsFolder } from "react-icons/bs";
 
 const About = () => {
@@ -13,7 +13,7 @@ const About = () => {
       <div className="container about_container">
         <div className="about_me">
           <div className="about_me-image">
-            <img src={aboutimg} alt="About image" />
+            <img src={aboutimg} alt="About-image" />
           </div>
         </div>
         <div className="about_content">

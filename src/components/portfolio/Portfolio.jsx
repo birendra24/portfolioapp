@@ -28,24 +28,24 @@ const data = [
     id: 3,
     image: portfolioimg,
     title: "Portfolio App",
-    github: "https://github.com/birendra24/portfolio",
-    demo: "abc.com",
+    github: "https://github.com/birendra24/portfolioapp",
+    demo: "https://birendra-portfolio.netlify.app",
   },
 
   {
     id: 4,
     image: gymimg,
     title: "Gym App",
-    github: "https://github.com/birendra24",
-    demo: "abc.com",
+    github: "https://github.com/birendra24/Birendra-Gym-App.git",
+    demo: "https://birendra24.github.io/Birendra-Gym-App/",
   },
 
   {
     id: 5,
     image: restaurantimg,
     title: "Restaurant App",
-    github: "https://github.com//birendra24",
-    demo: "abc.com",
+    github: "https://github.com/birendra24/Restaurant-Website.git",
+    demo: "https://restaurant-app-birendra.netlify.app",
   },
 ];
 
